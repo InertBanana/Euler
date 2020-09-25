@@ -145,6 +145,7 @@
     <ClCompile Include="euler.cpp" />
     <ClCompile Include="problem_3.cpp" />
     <ClCompile Include="problem_4.cpp" />
+    <ClCompile Include="problem_5.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="euler.h" />
@@ -152,6 +153,7 @@
     <ClInclude Include="problem_2.h" />
     <ClInclude Include="problem_3.h" />
     <ClInclude Include="problem_4.h" />
+    <ClInclude Include="problem_5.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

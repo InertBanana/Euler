@@ -22,7 +22,7 @@ Note: I did this with threads for the sake of practicing threads.
 Followed tutorial at https://docs.microsoft.com/en-us/windows/win32/procthread/ (creating-threads and using-mutex-objects)
 
 */
-int palindromic_product() {
+int problem_4() {
 
 	T_DATA thread_data_array[MAX_THREADS];
 	DWORD dw_thread_id_array[MAX_THREADS];

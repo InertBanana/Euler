@@ -1,3 +1,3 @@
 #pragma once
 
-int even_fib();
+int problem_2();

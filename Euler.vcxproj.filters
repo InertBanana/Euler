@@ -30,6 +30,9 @@
     <ClCompile Include="problem_4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="problem_5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="euler.h">
@@ -45,6 +48,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="problem_4.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem_5.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,7 +1,7 @@
 #include "euler.h"
 
 int main() {
-	int result = palindromic_product();
+	int result = problem_5();
 
 	std::cout << "Result: " << result;
 
