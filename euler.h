@@ -6,3 +6,6 @@
 #include "problem_3.h"
 #include "problem_4.h"
 #include "problem_5.h"
+#include "problem_6.h"
+#include "problem_7.h"
+#include "problem_8.h"
