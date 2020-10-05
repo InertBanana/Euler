@@ -42,6 +42,12 @@
     <ClCompile Include="problem_8.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="problem_9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="problem_10.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="euler.h">
@@ -69,6 +75,12 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="problem_8.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem_9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="problem_10.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -9,3 +9,5 @@
 #include "problem_6.h"
 #include "problem_7.h"
 #include "problem_8.h"
+#include "problem_9.h"
+#include "problem_10.h"

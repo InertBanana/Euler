@@ -1,5 +1,8 @@
 #include <iostream>
 #include <string>
+#include <fstream>
+//#include <cstdint>
+#include <streambuf>
 #pragma once
 
-int problem_8();
+int64_t problem_8();
