@@ -1,0 +1,12 @@
+# Euler makefile
+
+# VARS
+CXX = g++
+CXXFLAGS = -std=c++11 
+
+# TARGETS
+euler: euler.o problem_o.cpp
+	$(CXX) $(CXXFLAGS) -o euler 
+
+euler.o: euler.cpp problem_11.h
+	$(CXX) $(CXXFLAGS) -o euler.cpp 
