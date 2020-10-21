@@ -5,7 +5,7 @@ CXX = g++
 CXXFLAGS = -std=c++11 
 
 #DEPS
-DEPS = problem_11.h
+DEPS = problem_11.h utils.h
 OBJ = euler.o problem_11.o
 
 %.o: %.cpp $(DEPS)

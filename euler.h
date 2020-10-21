@@ -1,4 +1,2 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <iostream>
+#include "utils.h"
 #include "problem_11.h"
