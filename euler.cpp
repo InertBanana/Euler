@@ -5,7 +5,7 @@ int main() {
 	// int64_t result_64 = problem_11();
 	int result = problem_11();
 
-	std::cout << "Result: " << result;
+	std::cout << "Result: " << result << std::endl;
 
 	return 0;
 }

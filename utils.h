@@ -3,3 +3,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
+#include <algorithm>
+#include <sstream>
+#include <array>
+
+// threads
+#include <thread>
+#include <mutex>
+#include <pthread.h>
+#include <future>

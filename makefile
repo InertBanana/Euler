@@ -2,7 +2,7 @@
 
 # VARS
 CXX = g++
-CXXFLAGS = -std=c++11 
+CXXFLAGS = -std=c++11 -pthread
 
 #DEPS
 DEPS = problem_11.h utils.h
